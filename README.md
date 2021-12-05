@@ -1,1 +1,1 @@
-# chaitu
+Machine Learning Engineer with background Math and computer Science. Experience with creating Machine Learning applications for the Health care industry and working with text as well as speech data. Comfortable working with several frameworks including Pandas, Numpy, Keras, SciKitLearn , Tensorflow,Keras and pytorch. Passionate about programming, open source, deep learning, and continuous self learning.
